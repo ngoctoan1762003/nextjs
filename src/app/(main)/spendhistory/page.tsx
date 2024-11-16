@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Button, Modal } from 'antd';
 import Image from 'next/image';
 import axios from 'axios';
-import styles from './spendtype.module.scss'
+import styles from './spendtype.module.scss';
 import React, { useState, useEffect } from 'react';
 import { toast } from 'react-toastify';
 import Link from 'next/link';
